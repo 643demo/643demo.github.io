@@ -30,9 +30,9 @@ default_cards_per_row: "two" # this is the default cards per row for each sectio
 # uncomment the following to add nav buttons
 nav_buttons: 
  - icon: twitter
-    tooltip: "Twitter: elijahcantu"
-    url: "https://twitter.com/username/"
-    aria_label: "Twitter: elijahcantu"
+   tooltip: "Twitter: elijahcantu"
+   url: "https://twitter.com/username/"
+   aria_label: "Twitter: elijahcantu"
 #  - icon: instagram
 #    tooltip: "Instagram: username"
 #    url: "https://instagram.com/username/"
